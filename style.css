@@ -20,8 +20,8 @@ section::before
 {
   content: '';
   position: fixed;
-  top: ;
-  left: ;
+  /* top: ;
+  left: ; */
   width: 100%;
   height: 100%;
   background: #ef3b36;
@@ -31,8 +31,8 @@ section::after
 {
   content: '';
   position: fixed;
-  top: ;
-  left: ;
+  /* top: ;
+  left: ; */
   width: 100%;
   height: 100%;
   background: #47aafa;
